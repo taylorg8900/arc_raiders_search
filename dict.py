@@ -1,157 +1,157 @@
 all_loot = {
-        Advanced ARC Powercell: 2 ARC powercell
-        Advanced Electrical Components: 1 Electrical Components, 1 Wires
-        Advanced Mechanical Components: 1 Mechanical Components, 1 Wires
-        Agave: 3 Assorted Seeds
-        Alarm Clock: 1 Processor, 6 Plastic Parts
-        Antiseptic: 10 Chemicals
-        Apricot: 3 Assorted Seeds
-        ARC Alloy: 2 Metal Parts
-        ARC Circuitry: 2 ARC Alloy
-        ARC Coolant: 16 Chemicals
-        ARC Flex Rubber: 16 Rubber Parts
-        ARC Motion Core: 2 ARC Alloy
-        ARC Performance Steel: 12 Metal Parts
-        ARC Synthetic Resin: 14 Plastic Parts
-        ARC Thermo Lining: 16 Fabric
-        Bastion Cell: 2 ARC Motion Core, 2 Advanced Mechanical Components
-        Battery: 2 Metal Parts
-        Bicycle Pump: 4 Canister, 10 Metal Parts
-        Bombardier Cell: 2 Advanced Mechanical Components, 2 ARC Alloy
-        Broken Flashlight: 3 Battery, 7 Metal Parts
-        Broken Guidance System: 4 Processor
-        Broken Handheld Radio: 3 Sensors, 3 Wires
-        Broken Taser: 2 Battery, 2 Wires
-        Burned ARC Circuitry: 2 ARC Alloy
-        Camera Lens: 8 Plastic Parts
-        Candle Holder: 8 Metal Parts
-        Canister: 3 Plastic Parts
-        Complex Gun Parts: 3 Simple Gun Parts
-        Coolant: 5 Chemicals, 2 Oil
-        Cooling Coil: 6 Chemicals, 2 Steel Spring
-        Cooling Fan: 14 Plastic Parts, 4 Battery
-        Cracked Bioscanner: 3 Rubber Parts, 5 Battery
-        Crude Explosives: 3 Chemicals
-        Crumpled Plastic Bottle: 3 Plastic Parts
-        Damaged ARC Motion Core: 2 ARC Alloy
-        DAmaged ARC Powercell: 1 ARC Alloy
-        Damaged FireBall Burner: 1 ARC Alloy
-        Damaged Heat Sink: 6 Metal Parts, 2 Wires
-        Damaged Hornet Driver: 2 ARC Alloy
-        Damaged Rocketeer Driver: 3 ARC Alloy
-        Damaged Tick Pod: 1 ARC Alloy
-        Damaged Wasp Driver: 1 ARC Alloy
-        Deflated Football: 15 Rubber Parts
-        Degraded ARC Rubber: 11 Rubber Parts
-        Diving Goggles: 12 Rubber Parts
-        Dog Collar: 8 Fabric, 1 Metal Parts
-        Dried-Out ARC Resin: 9 Plastic Parts
-        Duct Tape: 3 Fabric
-        Durable Cloth: 6 Fabric
-        Electrical Components: 3 Plastic Parts, 3 Rubber Parts
-        exodus modules: 2 magnet, 1 mechanical components
-        expired respirator: 8 rubber parts, 4 fabric
-        explosive compound: 2 crude explosives
-        fertilizer: 2 assorted seeds
-        fireball burner: 1 arc alloy, 1 chemicals
-        frequency modulation box: 1 advanced electrical components, 1 speaker component
-        fried motherboard: 5 plastic parts, 1 electrical components
-        frying pan: 8 metal parts
-        garlic press: 12 metal parts
-        geiger counter: 3 battery, 1 exodus modules
-        great mullein: 4 assorted seeds
-        headphones: 6 rubber parts, 2 speaker component
-        heavy gun parts: 2 simple gun parts
-        hornet driver: 2 arc alloy, 2 electrical components
-        household cleaner: 13 chemicals
-        humidifier: 2 canister, 2 wires
-        ice cream scooper: 7 metal parts
-        impure arc coolant: 13 chemicals
-        industrial battery: 7 chemicals, 2 battery
-        industrial charger: 5 metal parts, 1 voltage converter
-        industrial magnet: 2 magnet, 4 metal parts
-        ion sputter: 4 voltage converter, 1 exodus modules
-        laboratory reagents: 2 chemicals, 2 crude explosives
-        lemon: 3 assorted seeds
-        leaper pulse unit: 2 advanced mechanical components, 3 arc alloy
-        light fun parts: 2 simple gun parts
-        magnet: 3 metal parts
-        magnetic accelerator: 1 advanced mechanical components, 1 arc motion core
-        magnetron: 1 magnetic accelerator, 1 steel spring
-        matriarch reactor: 1 power rod, 1 magnetic accelerator
-        mechanical components: 3 metal parts, 2 rubber parts
-        medium gun parts: 2 simple gun parts
-        metal brackets: 8 metal parts
-        microscope: 1 advanced mechanical components, 3 magnet
-        mini centrifuge: 1 advanced mechanical components, 3 magnet
-        mod components: 1 mechanical components, 1 steel spring
-        moss: 3 assorted seeds
-        motor: 2 oil, 2 mechanical components
-        number plate: 3 metal parts
-        oil: 3 chemicals
-        olives: 2 assorted seeds
-        polluted air filter: 6 fabric, 2 oil
-        pop trigger: 1 crude explosives, 1 arc alloy
-        portable TV: 2 battery, 6 wires
-        power bank: 2 battery, 2 wires
-        power cable: 4 wires
-        power rod: 1 advanced electrical components, 1 arc circuitry
-        prickly pear: 3 assorted seeds
-        processor: 1 wires, 1 plastic parts
-        projector: 1 processor, 2 wires
-        queen reactor: 1 power rod, 1 magnetic acclerator
-        radio: 1 speaker component, 1 sensors
-        radio relay: 2 speaker component, 1 sensors
-        remote control: 2 plastic parts, 1 sensors
-        ripped saftey vest: 1 magnet, 1 durable cloth
-        rocket thruster: 2 synthesized fuelt, 6 metal parts
-        rocketeer driver: 2 advanced electrical components, 3 arc alloy
-        roots: 1 assorted seeds
-        rope: 5 fabric
-        rotary encoder: 2 electrical components, 2 processor
-        rubber pad: 18 rubber parts
-        ruined accordion: 18 rubber parts, 3 steel spring
-        ruined agument: 2 plastic parts, 2 rubber parts
-        ruined baton: 6 metal parts, 3 rubber parts
-        ruined handcuffs: 8 metal parts
-        ruined parachute: 10 fabric
-        ruined tactical vest: 5 fabric, 1 magnet
-        ruinied riot shield: 10 plastic parts, 6 rubber parts
-        rusted bolts: 8 metal parts
-        rusted gear: 4 metal parts, 2 mechanical components
-        rusted shut medical kit: 2 syringe, 1 antiseptic
-        rusted tools: 8 metal parts, 1 steel spring
-        rusty arc steel: 8 metal parts
-        sample cleaner: 2 electrical compnents, 14 assorted seeds
-        sensors: 2 wires, 2 metal parts
-        sentinel firing core: 2 arc alloy, 3 mechanical components
-        shredder gyro: 3 mechanical components, 3 arc alloy
-        signal amplifier: 2 electrical components, 2 voltage converter
-        simple gun parts: 2 metal parts
-        snitch scanner: 4 arc alloy, 2 electrical components
-        speaker component: 2 plastic parts, 2 rubber parts
-        spectrometer: 1 advanced electrical components, 1 sensors
-        spectrum analyzer: 1 sensors, 1 exodus modules
-        spring cushion: 2 durable cloth, 2 steel spring
-        spotter relay: 2 electrical components
-        steel spring: 3 metal parts
-        surveyor vault: 2 mechanical components, 2 arc alloy
-        synthesized fuel: 1 oil, 1 plastic parts
-        syringe: 3 plastic parts, 2 chemicals
-        tattered arc lining: 12 fabric
-        tattered clothes: 11 fabric
-        telemetry transceiver: 1 advanced electrical components, 1 processor
-        thermostat: 6 rubber parts, 2 sensors
-        tick pod: 1 chemicals, 1 metal parts
-        toaster: 5 plastic parts, 3 wires
-        torn blanket: 12 fabric
-        turbo pump: 1 mechanical components, 3 oil
-        unusable weapon: 4 metal parts, 5 simple gun parts
-        voltage converter: 1 wires, 1 rubber parts
-        wasp dirver: 1 arc alloy, 1 electrical components
-        water filter: 2 rubber parts, 3 canister
-        water pump: 4 metal parts, 2 oil
-        Wires: 2 Rubber Parts
+        "Advanced ARC Powercell": "2 ARC powercell"
+        "Advanced Electrical Components": "1 Electrical Components", "1 Wires"
+        "Advanced Mechanical Components": "1 Mechanical Components", "1 Wires"
+        "Agave": "3 Assorted Seeds"
+        "Alarm Clock": "1 Processor", "6 Plastic Parts"
+        "Antiseptic": "10 Chemicals"
+        "Apricot": "3 Assorted Seeds"
+        "ARC Alloy": "2 Metal Parts"
+        "ARC Circuitry": "2 ARC Alloy"
+        "ARC Coolant": "16 Chemicals"
+        "ARC Flex Rubber": "16 Rubber Parts"
+        "ARC Motion Core": "2 ARC Alloy"
+        "ARC Performance Steel": "12 Metal Parts"
+        "ARC Synthetic Resin": "14 Plastic Parts"
+        "ARC Thermo Lining": "16 Fabric"
+        "Bastion Cell": "2 ARC Motion Core", "2 Advanced Mechanical Components"
+        "Battery": "2 Metal Parts"
+        "Bicycle Pump": "4 Canister", "10 Metal Parts"
+        "Bombardier Cell": "2 Advanced Mechanical Components", "2 ARC Alloy"
+        "Broken Flashlight": "3 Battery", "7 Metal Parts"
+        "Broken Guidance System": "4 Processor"
+        "Broken Handheld Radio": "3 Sensors", "3 Wires"
+        "Broken Taser": "2 Battery", "2 Wires"
+        "Burned ARC Circuitry": "2 ARC Alloy"
+        "Camera Lens": "8 Plastic Parts"
+        "Candle Holder": "8 Metal Parts"
+        "Canister": "3 Plastic Parts"
+        "Complex Gun Parts": "3 Simple Gun Parts"
+        "Coolant": "5 Chemicals", "2 Oil"
+        "Cooling Coil": "6 Chemicals", "2 Steel Spring"
+        "Cooling Fan": "14 Plastic Parts", "4 Battery"
+        "Cracked Bioscanner": "3 Rubber Parts", "5 Battery"
+        "Crude Explosives": "3 Chemicals"
+        "Crumpled Plastic Bottle": "3 Plastic Parts"
+        "Damaged ARC Motion Core": "2 ARC Alloy"
+        "DAmaged ARC Powercell": "1 ARC Alloy"
+        "Damaged FireBall Burner": "1 ARC Alloy"
+        "Damaged Heat Sink": "6 Metal Parts", "2 Wires"
+        "Damaged Hornet Driver": "2 ARC Alloy"
+        "Damaged Rocketeer Driver": "3 ARC Alloy"
+        "Damaged Tick Pod": "1 ARC Alloy"
+        "Damaged Wasp Driver": "1 ARC Alloy"
+        "Deflated Football": "15 Rubber Parts"
+        "Degraded ARC Rubber": "11 Rubber Parts"
+        "Diving Goggles": "12 Rubber Parts"
+        "Dog Collar": "8 Fabric", "1 Metal Parts"
+        "Dried-Out ARC Resin": "9 Plastic Parts"
+        "Duct Tape": "3 Fabric"
+        "Durable Cloth": "6 Fabric"
+        "Electrical Components": "3 Plastic Parts", "3 Rubber Parts"
+        "Exodus Modules": "2 Magnet", "1 Mechanical Components"
+        "Expired Respirator": "8 Rubber Parts", "4 Fabric"
+        "Explosive Compound": "2 Crude Explosives"
+        "Fertilizer": "2 Assorted Seeds"
+        "Fireball Burner": "1 Arc Alloy", "1 Chemicals"
+        "Frequency Modulation Box": "1 Advanced Electrical Components", "1 Speaker Component"
+        "Fried Motherboard": "5 Plastic Parts", "1 Electrical Components"
+        "Frying Pan": "8 Metal Parts"
+        "Garlic Press": "12 Metal Parts"
+        "Geiger Counter": "3 Battery", "1 Exodus Modules"
+        "Great Mullein": "4 Assorted Seeds"
+        "Headphones": "6 Rubber Parts", "2 Speaker Component"
+        "Heavy Gun Parts": "2 Simple Gun Parts"
+        "Hornet Driver": "2 Arc Alloy", "2 Electrical Components"
+        "Household Cleaner": "13 Chemicals"
+        "Humidifier": "2 Canister", "2 Wires"
+        "Ice Cream Scooper": "7 Metal Parts"
+        "Impure Arc Coolant": "13 Chemicals"
+        "Industrial Battery": "7 Chemicals", "2 Battery"
+        "Industrial Charger": "5 Metal Parts", "1 Voltage Converter"
+        "Industrial Magnet": "2 Magnet", "4 Metal Parts"
+        "Ion Sputter": "4 Voltage Converter", "1 Exodus Modules"
+        "Laboratory Reagents": "2 Chemicals", "2 Crude Explosives"
+        "Lemon": "3 Assorted Seeds"
+        "Leaper Pulse Unit": "2 Advanced Mechanical Components", "3 Arc Alloy"
+        "Light Fun Parts": "2 Simple Gun Parts"
+        "Magnet": "3 Metal Parts"
+        "Magnetic Accelerator": "1 Advanced Mechanical Components", "1 Arc Motion Core"
+        "Magnetron": "1 Magnetic Accelerator", "1 Steel Spring"
+        "Matriarch Reactor": "1 Power Rod", "1 Magnetic Accelerator"
+        "Mechanical Components": "3 Metal Parts", "2 Rubber Parts"
+        "Medium Gun Parts": "2 Simple Gun Parts"
+        "Metal Brackets": "8 Metal Parts"
+        "Microscope": "1 Advanced Mechanical Components", "3 Magnet"
+        "Mini Centrifuge": "1 Advanced Mechanical Components", "3 Magnet"
+        "Mod Components": "1 Mechanical Components", "1 Steel Spring"
+        "Moss": "3 Assorted Seeds"
+        "Motor": "2 Oil", "2 Mechanical Components"
+        "Number Plate": "3 Metal Parts"
+        "Oil": "3 Chemicals"
+        "Olives": "2 Assorted Seeds"
+        "Polluted Air Filter": "6 Fabric", "2 Oil"
+        "Pop Trigger": "1 Crude Explosives", "1 Arc Alloy"
+        "Portable TV": "2 Battery", "6 Wires"
+        "Power Bank": "2 Battery", "2 Wires"
+        "Power Cable": "4 Wires"
+        "Power Rod": "1 Advanced Electrical Components", "1 Arc Circuitry"
+        "Prickly Pear": "3 Assorted Seeds"
+        "Processor": "1 Wires", "1 Plastic Parts"
+        "Projector": "1 Processor", "2 Wires"
+        "Queen Reactor": "1 Power Rod", "1 Magnetic Acclerator"
+        "Radio": "1 Speaker Component", "1 Sensors"
+        "Radio Relay": "2 Speaker Component", "1 Sensors"
+        "Remote Control": "2 Plastic Parts", "1 Sensors"
+        "Ripped Saftey Vest": "1 Magnet", "1 Durable Cloth"
+        "Rocket Thruster": "2 Synthesized Fuelt", "6 Metal Parts"
+        "Rocketeer Driver": "2 Advanced Electrical Components", "3 Arc Alloy"
+        "Roots": "1 Assorted Seeds"
+        "Rope": "5 Fabric"
+        "Rotary Encoder": "2 Electrical Components", "2 Processor"
+        "Rubber Pad": "18 Rubber Parts"
+        "Ruined Accordion": "18 Rubber Parts", "3 Steel Spring"
+        "Ruined Agument": "2 Plastic Parts", "2 Rubber Parts"
+        "Ruined Baton": "6 Metal Parts", "3 Rubber Parts"
+        "Ruined Handcuffs": "8 Metal Parts"
+        "Ruined Parachute": "10 Fabric"
+        "Ruined Tactical Vest": "5 Fabric", "1 Magnet"
+        "Ruined Riot Shield": "10 Plastic Parts", "6 Rubber Parts"
+        "Rusted Bolts": "8 Metal Parts"
+        "Rusted Gear": "4 Metal Parts", "2 Mechanical Components"
+        "Rusted Shut Medical Kit": "2 Syringe", "1 Antiseptic"
+        "Rusted Tools": "8 Metal Parts", "1 Steel Spring"
+        "Rusty Arc Steel": "8 Metal Parts"
+        "Sample Cleaner": "2 Electrical Compnents", "14 Assorted Seeds"
+        "Sensors": "2 Wires", "2 Metal Parts"
+        "Sentinel Firing Core": "2 Arc Alloy", "3 Mechanical Components"
+        "Shredder Gyro": "3 Mechanical Components", "3 Arc Alloy"
+        "Signal Amplifier": "2 Electrical Components", "2 Voltage Converter"
+        "Simple Gun Parts": "2 Metal Parts"
+        "Snitch Scanner": "4 Arc Alloy", "2 Electrical Components"
+        "Speaker Component": "2 Plastic Parts", "2 Rubber Parts"
+        "Spectrometer": "1 Advanced Electrical Components", "1 Sensors"
+        "Spectrum Analyzer": "1 Sensors", "1 Exodus Modules"
+        "Spring Cushion": "2 Durable Cloth", "2 Steel Spring"
+        "Spotter Relay": "2 Electrical Components"
+        "Steel Spring": "3 Metal Parts"
+        "Surveyor Vault": "2 Mechanical Components", "2 Arc Alloy"
+        "Synthesized Fuel": "1 Oil", "1 Plastic Parts"
+        "Syringe": "3 Plastic Parts", "2 Chemicals"
+        "Tattered Arc Lining": "12 Fabric"
+        "Tattered Clothes": "11 Fabric"
+        "Telemetry Transceiver": "1 Advanced Electrical Components", "1 Processor"
+        "Thermostat": "6 Rubber Parts", "2 Sensors"
+        "Tick Pod": "1 Chemicals", "1 Metal Parts"
+        "Toaster": "5 Plastic Parts", "3 Wires"
+        "Torn Blanket": "12 Fabric"
+        "Turbo Pump": "1 Mechanical Components", "3 Oil"
+        "Unusable Weapon": "4 Metal Parts", "5 Simple Gun Parts"
+        "voltage converter": "1 wires", "1 rubber parts"
+        "Wasp Dirver": "1 Arc Alloy", "1 Electrical Components"
+        "Water Filter": "2 Rubber Parts", "3 Canister"
+        "Water Pump": "4 Metal Parts", "2 Oil"
+        "Wires": "2 Rubber Parts"
 
 
 
